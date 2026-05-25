@@ -49,6 +49,7 @@ Install Tesseract OCR and set path in the code
 Open project in Webots and run the simulation
 
 **Outcome**
+
 The robot successfully navigates the maze by:
 
 -following walls
